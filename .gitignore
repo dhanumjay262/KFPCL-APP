@@ -41,3 +41,12 @@ example
 # generated native folders
 /ios
 /android
+
+# Build outputs & binaries
+*.apk
+*.aab
+*.keystore
+
+# Test and dump files
+dump.xml
+s.png

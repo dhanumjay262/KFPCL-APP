@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129544743800",
+    "project_id": "anusha-porter",
+    "storage_bucket": "anusha-porter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129544743800:android:3a4c460d7c7ab7d104768d",
+        "android_client_info": {
+          "package_name": "com.kfpclexport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN0xzTcP5sfYndJf-wQb3b4lIdCfmQ0go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
